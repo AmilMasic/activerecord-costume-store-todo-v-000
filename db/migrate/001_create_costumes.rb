@@ -14,4 +14,5 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :name
       t.integer :price
     end
+  end
 end
